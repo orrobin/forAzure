@@ -1,0 +1,64 @@
+﻿@model ProductModel
+@section Title{
+    <a>יצירת מוצר חדש</a>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-app" viewBox="0 0 16 16">
+        <path d="M11 2a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h6zM5 1a4 4 0 0 0-4 4v6a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4V5a4 4 0 0 0-4-4H5z" />
+    </svg>
+}
+@{
+    ViewData["Title"] = "New Product";
+}
+<div class="row">
+    <div class="col-3"></div>
+    <div class="w-50 signup-form col-6 text-center">
+        <form asp-controller="Product" asp-action="AddProduct" enctype="multipart/form-data">
+            <h2>Create Advert</h2>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="text" asp-for="Title" class="form-control" placeholder="Title" required="required">
+                </div>
+                <span asp-validation-for="Title" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="text" asp-for="ShortDescription" class="form-control" placeholder="Short description" required="required">
+                </div>
+                <span asp-validation-for="ShortDescription" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <textarea name="LongDescription" class="overflow-auto form-control" placeholder="Long description" required="required"></textarea>
+                </div>
+                <span asp-validation-for="LongDescription" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="number" asp-for="Price" class="form-control" placeholder="Product price" required="required">
+                </div>
+                <span asp-validation-for="Price" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="file" name="Images" id="img" accept="image/*" class=" custom-label">
+                </div>
+                <span asp-validation-for="Picture1" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="file" name="Images" id="img" accept="image/*" class=" custom-label">
+                </div>
+                <span asp-validation-for="Picture2" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="file" name="Images" id="img" accept="image/*" class=" custom-label">
+                </div>
+                <span asp-validation-for="Picture3" class="d-block rounded bg-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-info btn-block btn-lg">Submit</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-3"></div>
+</div>

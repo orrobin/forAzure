@@ -1,0 +1,19 @@
+﻿@{
+    string a = (string)ViewData["Title"];
+            }
+@if (Context.Items.ContainsKey("CookieKey"))
+{
+    <div>
+        <a class="@(a=="New Product"?"disabled":"") nav-link" asp-controller="Product" asp-action="NewProduct">NewProduct</a>
+    </div>
+}
+<div>
+    <a class="@(a=="Cart"?"disabled":"") nav-link" asp-action="Cart" asp-controller="product"> Cart </a>
+</div>
+<div>
+    
+    <a class="@(a=="Home Page"?"disabled":"")  nav-link" asp-controller="Home" asp-action="Index">Home Page</a>
+</div>
+<div>
+    <a class="@(a=="Privacy Policy"?"disabled":"") nav-link" asp-controller="Home" asp-action="Privacy">Privacy</a>
+</div>

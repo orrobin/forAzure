@@ -1,0 +1,50 @@
+﻿@model UserModel
+@section Title{
+    <a>מסך עדכון משתמש</a>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bag" viewBox="0 0 16 16">
+        <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z" />
+    </svg>
+}
+@{
+    ViewData["Title"] = "Update User";
+}
+<form asp-controller="User" asp-action="UpdateUser" method="post" type="submit">
+    <input type="hidden" asp-for="Id" class="form-control" readonly />
+    <input type="hidden" asp-for="UserName" class="form-control" readonly />
+    <div class="form-group">
+        <label>First Name</label>
+        <input type="text" class="form-control" asp-for="FirstName" placeholder="Enter First Name">
+        <span asp-validation-for="FirstName"></span>
+    </div>
+    <div class="form-group">
+        <label>Last Name</label>
+        <input type="text" class="form-control" asp-for="LastName" placeholder="Enter Last Name">
+        <span asp-validation-for="LastName"></span>
+    </div>
+    <div class="form-group">
+        <label>BirthDate</label>
+        <input type="date" class="form-control" asp-for="BirthDate" placeholder="Enter BirthDate">
+        <span asp-validation-for="BirthDate"></span>
+    </div>
+    <div class="form-group">
+        <label>UserName</label>
+        <input type="text" class="form-control" asp-for="UserName" readonly>
+    </div>
+    <div class="form-group">
+        <label>Email address</label>
+        <input type="email" class="form-control" asp-for="Email" aria-describedby="emailHelp" placeholder="Enter Email address">
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" class="form-control" asp-for="Password" placeholder="Enter Password">
+        <span asp-validation-for="Password"></span>
+    </div>
+    <div class="form-group">
+        <label>Enter Again Password</label>
+        <input type="password" class="form-control" asp-for="ValidationPassword" placeholder="Enter Again Password">
+        <span asp-validation-for="ValidationPassword"></span>
+    </div>
+    <button class="btn btn-primary">Update</button>
+</form>

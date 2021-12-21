@@ -1,0 +1,46 @@
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\save\Desktop\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\save\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
