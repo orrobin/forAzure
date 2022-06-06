@@ -255,8 +255,6 @@ C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Ne
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.RazorAssemblyInfo.cache
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.RazorAssemblyInfo.cs
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net.Project.Yad2.StaticWebAssets.Manifest.cache
-C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net.Project.Yad2.StaticWebAssets.xml
-C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp.Net.Project.Yad2.styles.css
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.TagHelpers.input.cache
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.TagHelpers.output.cache
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.RazorCoreGenerate.cache
@@ -284,3 +282,4 @@ C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Ne
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.pdb
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.genruntimeconfig.cache
 C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\obj\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My D\Desktop\Sela\semester 2\קורסים שנגמרו\asp.net project\Asp.Net.Project.Yad2\Asp.Net.Project.Yad2\bin\Debug\netcoreapp3.1\Asp.Net.Project.Yad2.StaticWebAssets.xml
